@@ -10,3 +10,5 @@ In order to generate this traffic, we propose the use of the NPC (NonPlayer Char
 Taking into account the above mentioned, the development of this project will consist of, given a file describing the network topology, analyzing it and implementing a logic for the generation of behavioral models obtaining a realistic traffic simulation through those simulated users.
 
 The objective in the development phase will be to generate behavioral files, which will be sent in a pseudo-random way or with a programmed logic from an orchestrator machine to the different machines that have the GHOSTs client. In order to carry out the distribution and execution of the traffic models, the use of the MQTT messaging protocol is proposed.
+# Autor
+Gonzalo Azcarate Rodriguez
